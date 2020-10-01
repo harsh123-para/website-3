@@ -11,13 +11,13 @@ This project builds out a static site to explain IPFS, ready for deployment on i
 
 The site content is in `content/` directory.
 
-## Install
+## Installation
 
 ```sh
 > git clone https://github.com/ipfs/website
 ```
 
-## Usage
+## How to use
 
 To deploy the site ipfs.io, run:
 
